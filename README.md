@@ -1,1 +1,1 @@
-A program to solve Rush Hour Problems, written in c
+An incomprehensible program to solve RushHour puzzles, written in c.
